@@ -17,7 +17,7 @@ So he added all the new options as a subclass under Coffee and SuperClass So the
 
 ![alt text](src/main/resources/BadCoffeeImplementation.png "Decorator")
 
-the problems in this implementation:
+## the problems in this implementation:
 
 this is an overcrowded and condenser implementation.
 
